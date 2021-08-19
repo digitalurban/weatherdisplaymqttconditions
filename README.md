@@ -15,5 +15,6 @@ To:
 
 The Weather is Partly Cloudy, 14.6 Degrees Centigrade & Falling, Pressure: 1013.8 Mb & Steady, Wind North West 0.9 Mph
 
+It is used on an LED Scrolling Matrix Display, on Home Assistant and to show conditions on an eink Screen.
 
-We use it on an LED Scrolling Matrix Display, on Home Assistant and to show conditions on an eink Screen.
+It could also be quickly adapted to read the more standard clientraw.txt files from a webpage rather than reading the MQTT feed.
