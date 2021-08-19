@@ -1,5 +1,5 @@
 # weatherdisplaymqttconditions
-Script to read the MQTT feed from Weather Display and Convert/Publish to a text string based on conditions.
+Script to read the MQTT feed from Weather Display and Convert/Publish to a text string based on conditions. Create to be run via a Cron job - every set period of time, say 5 minutes to update the feed.
 
 Useful for Scrolling Displays/eink Devices/Home Assistant or Headers on Web Pages.
 
@@ -15,7 +15,7 @@ To:
 
 The Weather is Partly Cloudy, 14.6 Degrees Centigrade & Falling, Pressure: 1013.8 Mb & Steady, Wind North West 0.9 Mph
 
-It is used on an LED Scrolling Matrix Display, on Home Assistant and to show conditions on an eink Screen.
+Currentlt used on an LED Scrolling Matrix Display, on Home Assistant and to show conditions on an eink Screen.
 
 ![Screen](https://github.com/digitalurban/weatherdisplaymqttconditions/blob/main/Screenshot%202021-08-19%20at%2009.11.41.png)
 
