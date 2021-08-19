@@ -17,4 +17,7 @@ The Weather is Partly Cloudy, 14.6 Degrees Centigrade & Falling, Pressure: 1013.
 
 It is used on an LED Scrolling Matrix Display, on Home Assistant and to show conditions on an eink Screen.
 
+![Screen](https://github.com/digitalurban/weatherdisplaymqttconditions/blob/main/Screenshot%202021-08-19%20at%2009.11.41.png)
+
+
 It could also be quickly adapted to read the more standard clientraw.txt files from a webpage rather than reading the MQTT feed.
