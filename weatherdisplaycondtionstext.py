@@ -202,7 +202,7 @@ def on_message(mosq, obj, msg):
 
     output_string = "The Weather is " + conditions + ", " + temp + " Degrees Centigrade " + temptrend + "," + " " + "Pressure: " + press + " Mb " + presstrend + ", Wind "+ windir + " " + wind + " Mph" 
 
-    output_string_rain = "The Weather is " + conditions + temp + " Degrees Centigrade " + temptrend + "," + ", with " + rainday + " mm" + " of rain, " + "Pressure: " + press + " Mb " + presstrend + ", Wind "+ windir + " " + wind + " Mph" 
+    output_string_rain = "The Weather is " + conditions + temp + " Degrees Centigrade " + temptrend + ", " + "with " + rainday + " mm" + " of rain, " + "Pressure: " + press + " Mb " + presstrend + ", Wind "+ windir + " " + wind + " Mph" 
 
 
     print (output_string)
