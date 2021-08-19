@@ -15,7 +15,7 @@ To:
 
 The Weather is Partly Cloudy, 14.6 Degrees Centigrade & Falling, Pressure: 1013.8 Mb & Steady, Wind North West 0.9 Mph
 
-Currentlt used on an LED Scrolling Matrix Display, on Home Assistant and to show conditions on an eink Screen.
+Currently used on an LED Scrolling Matrix Display, on Home Assistant and to show conditions on an eink Screen.
 
 ![Screen](https://github.com/digitalurban/weatherdisplaymqttconditions/blob/main/Screenshot%202021-08-19%20at%2009.11.41.png)
 
